@@ -1,0 +1,53 @@
+C:\Users\matthew\Desktop\Proyecto PROG 3\Proyecto PROG 3\obj\Debug\Proyecto PROG 3.csprojAssemblyReference.cache
+C:\Users\matthew\Desktop\Proyecto PROG 3\Proyecto PROG 3\obj\Debug\Proyecto_PROG_3.Ingreso.resources
+C:\Users\matthew\Desktop\Proyecto PROG 3\Proyecto PROG 3\obj\Debug\Proyecto_PROG_3.Properties.Resources.resources
+C:\Users\matthew\Desktop\Proyecto PROG 3\Proyecto PROG 3\obj\Debug\Proyecto_PROG_3.Registro.resources
+C:\Users\matthew\Desktop\Proyecto PROG 3\Proyecto PROG 3\obj\Debug\Proyecto PROG 3.csproj.GenerateResource.cache
+C:\Users\matthew\Desktop\Proyecto PROG 3\Proyecto PROG 3\obj\Debug\Proyecto PROG 3.csproj.CoreCompileInputs.cache
+C:\Users\matthew\Desktop\Proyecto PROG 3\Proyecto PROG 3\obj\Debug\Proyecto_PROG_3.Compra.resources
+C:\Users\matthew\Desktop\Proyecto PROG 3\Proyecto PROG 3\obj\Debug\Proyecto_PROG_3.Historial.resources
+C:\Users\matthew\Desktop\Proyecto PROG 3\Proyecto PROG 3\bin\Debug\Proyecto PROG 3.exe.config
+C:\Users\matthew\Desktop\Proyecto PROG 3\Proyecto PROG 3\bin\Debug\Proyecto PROG 3.exe
+C:\Users\matthew\Desktop\Proyecto PROG 3\Proyecto PROG 3\bin\Debug\Proyecto PROG 3.pdb
+C:\Users\matthew\Desktop\Proyecto PROG 3\Proyecto PROG 3\obj\Debug\Proyecto PROG 3.exe
+C:\Users\matthew\Desktop\Proyecto PROG 3\Proyecto PROG 3\obj\Debug\Proyecto PROG 3.pdb
+C:\Proyecto_PROG_3 (2)\Proyecto PROG 3\Proyecto PROG 3\bin\Debug\Proyecto PROG 3.exe.config
+C:\Proyecto_PROG_3 (2)\Proyecto PROG 3\Proyecto PROG 3\bin\Debug\Proyecto PROG 3.exe
+C:\Proyecto_PROG_3 (2)\Proyecto PROG 3\Proyecto PROG 3\bin\Debug\Proyecto PROG 3.pdb
+C:\Proyecto_PROG_3 (2)\Proyecto PROG 3\Proyecto PROG 3\obj\Debug\Proyecto PROG 3.csprojAssemblyReference.cache
+C:\Proyecto_PROG_3 (2)\Proyecto PROG 3\Proyecto PROG 3\obj\Debug\Proyecto_PROG_3.Compra.resources
+C:\Proyecto_PROG_3 (2)\Proyecto PROG 3\Proyecto PROG 3\obj\Debug\Proyecto_PROG_3.Ingreso.resources
+C:\Proyecto_PROG_3 (2)\Proyecto PROG 3\Proyecto PROG 3\obj\Debug\Proyecto_PROG_3.Historial.resources
+C:\Proyecto_PROG_3 (2)\Proyecto PROG 3\Proyecto PROG 3\obj\Debug\Proyecto_PROG_3.Properties.Resources.resources
+C:\Proyecto_PROG_3 (2)\Proyecto PROG 3\Proyecto PROG 3\obj\Debug\Proyecto_PROG_3.Registro.resources
+C:\Proyecto_PROG_3 (2)\Proyecto PROG 3\Proyecto PROG 3\obj\Debug\Proyecto PROG 3.csproj.GenerateResource.cache
+C:\Proyecto_PROG_3 (2)\Proyecto PROG 3\Proyecto PROG 3\obj\Debug\Proyecto PROG 3.csproj.CoreCompileInputs.cache
+C:\Proyecto_PROG_3 (2)\Proyecto PROG 3\Proyecto PROG 3\obj\Debug\Proyecto PROG 3.exe
+C:\Proyecto_PROG_3 (2)\Proyecto PROG 3\Proyecto PROG 3\obj\Debug\Proyecto PROG 3.pdb
+C:\Users\alexr\Desktop\Proyecto PROG 3\Proyecto PROG 3\bin\Debug\Proyecto PROG 3.exe.config
+C:\Users\alexr\Desktop\Proyecto PROG 3\Proyecto PROG 3\bin\Debug\Proyecto PROG 3.exe
+C:\Users\alexr\Desktop\Proyecto PROG 3\Proyecto PROG 3\bin\Debug\Proyecto PROG 3.pdb
+C:\Users\alexr\Desktop\Proyecto PROG 3\Proyecto PROG 3\obj\Debug\Proyecto PROG 3.csprojAssemblyReference.cache
+C:\Users\alexr\Desktop\Proyecto PROG 3\Proyecto PROG 3\obj\Debug\Proyecto_PROG_3.Compra.resources
+C:\Users\alexr\Desktop\Proyecto PROG 3\Proyecto PROG 3\obj\Debug\Proyecto_PROG_3.Ingreso.resources
+C:\Users\alexr\Desktop\Proyecto PROG 3\Proyecto PROG 3\obj\Debug\Proyecto_PROG_3.Historial.resources
+C:\Users\alexr\Desktop\Proyecto PROG 3\Proyecto PROG 3\obj\Debug\Proyecto_PROG_3.Properties.Resources.resources
+C:\Users\alexr\Desktop\Proyecto PROG 3\Proyecto PROG 3\obj\Debug\Proyecto_PROG_3.Registro.resources
+C:\Users\alexr\Desktop\Proyecto PROG 3\Proyecto PROG 3\obj\Debug\Proyecto PROG 3.csproj.GenerateResource.cache
+C:\Users\alexr\Desktop\Proyecto PROG 3\Proyecto PROG 3\obj\Debug\Proyecto PROG 3.csproj.CoreCompileInputs.cache
+C:\Users\alexr\Desktop\Proyecto PROG 3\Proyecto PROG 3\obj\Debug\Proyecto PROG 3.exe
+C:\Users\alexr\Desktop\Proyecto PROG 3\Proyecto PROG 3\obj\Debug\Proyecto PROG 3.pdb
+E:\utn\Programación III\Proyecto PROG 3\Proyecto PROG 3\bin\Debug\Proyecto PROG 3.exe.config
+E:\utn\Programación III\Proyecto PROG 3\Proyecto PROG 3\bin\Debug\Proyecto PROG 3.exe
+E:\utn\Programación III\Proyecto PROG 3\Proyecto PROG 3\bin\Debug\Proyecto PROG 3.pdb
+E:\utn\Programación III\Proyecto PROG 3\Proyecto PROG 3\obj\Debug\Proyecto PROG 3.csprojAssemblyReference.cache
+E:\utn\Programación III\Proyecto PROG 3\Proyecto PROG 3\obj\Debug\Proyecto_PROG_3.Compra.resources
+E:\utn\Programación III\Proyecto PROG 3\Proyecto PROG 3\obj\Debug\Proyecto_PROG_3.Ingreso.resources
+E:\utn\Programación III\Proyecto PROG 3\Proyecto PROG 3\obj\Debug\Proyecto_PROG_3.Historial.resources
+E:\utn\Programación III\Proyecto PROG 3\Proyecto PROG 3\obj\Debug\Proyecto_PROG_3.Properties.Resources.resources
+E:\utn\Programación III\Proyecto PROG 3\Proyecto PROG 3\obj\Debug\Proyecto_PROG_3.Registro.resources
+E:\utn\Programación III\Proyecto PROG 3\Proyecto PROG 3\obj\Debug\Proyecto PROG 3.csproj.GenerateResource.cache
+E:\utn\Programación III\Proyecto PROG 3\Proyecto PROG 3\obj\Debug\Proyecto PROG 3.csproj.CoreCompileInputs.cache
+E:\utn\Programación III\Proyecto PROG 3\Proyecto PROG 3\obj\Debug\Proyecto PROG 3.exe
+E:\utn\Programación III\Proyecto PROG 3\Proyecto PROG 3\obj\Debug\Proyecto PROG 3.pdb
+E:\utn\Programación III\Proyecto PROG 3\Proyecto PROG 3\obj\Debug\Proyecto_PROG_3.Confirmacion.resources
